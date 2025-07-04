@@ -1,2 +1,2 @@
 # Price-checker 
-And notifier
+And notifier!
