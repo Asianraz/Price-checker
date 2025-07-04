@@ -1,1 +1,2 @@
-# Price-checker
+# Price-checker 
+And notifier
